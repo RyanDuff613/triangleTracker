@@ -27,5 +27,4 @@ describe('Triangle', () => {
     var equilateral = new Triangle(5,5,5)
     expect(equilateral.checkType()).toEqual("equilateral triangle");
   });
-  
 });
